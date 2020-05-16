@@ -19,3 +19,4 @@ D = sqred(random)
 
 H = sub(random2, random)
 
+DH = mult(D, H)
