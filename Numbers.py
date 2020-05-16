@@ -6,3 +6,5 @@ random2 = np.random.randint(50, 100, 6)
 
 random3 = np.random.randint(1, 100, 6)
 
+random4 = np.random.randint(1, 20, 3)
+
